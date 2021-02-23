@@ -1,0 +1,8 @@
+E:\Code项目\BaseNetCADTool\BaseNetCADTool\bin\Debug\netstandard2.0\BaseNetCADTool.deps.json
+E:\Code项目\BaseNetCADTool\BaseNetCADTool\bin\Debug\netstandard2.0\BaseNetCADTool.dll
+E:\Code项目\BaseNetCADTool\BaseNetCADTool\bin\Debug\netstandard2.0\BaseNetCADTool.pdb
+E:\Code项目\BaseNetCADTool\BaseNetCADTool\obj\Debug\netstandard2.0\BaseNetCADTool.csproj.CoreCompileInputs.cache
+E:\Code项目\BaseNetCADTool\BaseNetCADTool\obj\Debug\netstandard2.0\BaseNetCADTool.AssemblyInfoInputs.cache
+E:\Code项目\BaseNetCADTool\BaseNetCADTool\obj\Debug\netstandard2.0\BaseNetCADTool.AssemblyInfo.cs
+E:\Code项目\BaseNetCADTool\BaseNetCADTool\obj\Debug\netstandard2.0\BaseNetCADTool.dll
+E:\Code项目\BaseNetCADTool\BaseNetCADTool\obj\Debug\netstandard2.0\BaseNetCADTool.pdb
